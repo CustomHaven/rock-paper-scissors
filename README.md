@@ -30,7 +30,7 @@ HTML - to render the page
 
 ## Launch
 
-We have included a [html page](https://github.com/CustomHaven/rock-paper-scissors) when you land on the page you will see a prompt asking you to make a choice. Choice between rock, paper or scissors _(psst! there is an alternative word to win instantly and beat the computer)._ Then an alert asking if you are going to become a warewolf.
+We have included a [html page](customhaven.github.io/rock-paper-scissors/) when you land on the page you will see a prompt asking you to make a choice. Choice between rock, paper or scissors _(psst! there is an alternative word to win instantly and beat the computer)._ Then an alert asking if you are going to become a warewolf.
 
 ---
 
